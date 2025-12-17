@@ -13,4 +13,4 @@ Representação visual do fluxo testado por meio de fluxograma, facilitando a co
 
 ---
 
-Os testes estão documentados em arquivo Word, servindo como base para execução manual e análise de qualidade.
+Os testes estão documentados em arquivo PDF, servindo como base para execução manual e análise de qualidade.
