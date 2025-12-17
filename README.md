@@ -2,10 +2,19 @@
 
 Este repositório contém a documentação de testes manuais, criada para validar o fluxo funcional do sistema, com apoio visual para melhor entendimento dos cenários.
 
-## Contexto de Teste
-Descrição do cenário avaliado, incluindo o objetivo dos testes, escopo e entendimento geral do processo a ser validado.
+## Objetivo do Teste
+Descrição do objetivo dos testes, escopo e entendimento geral do processo a ser validado.
 
-## Plano de Teste
+## Ambiente de teste
+Ambiente de execução onde os testes serão executados.
+
+## Jornada executada
+Evidencias dos testes executados.
+
+## Bugs e melhorias identificados
+Evidencias e descrição dos bugs e melhorias identificados durante o teste.
+
+## Caso de testes
 Definição dos cenários de teste manuais, contemplando os fluxos principais, critérios de validação e organização da execução dos testes.
 
 ## Desenho de Teste
